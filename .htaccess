@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^derineasigim/?$ /derin.love/index.html [L,QSA]
